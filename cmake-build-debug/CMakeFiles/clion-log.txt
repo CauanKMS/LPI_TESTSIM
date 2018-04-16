@@ -1,0 +1,4 @@
+/home/cauan_kms/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/173.4548.31/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/cauan_kms/Desktop/LPI_TESTSIM
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cauan_kms/Desktop/LPI_TESTSIM/cmake-build-debug

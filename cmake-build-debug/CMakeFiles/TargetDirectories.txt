@@ -1,0 +1,3 @@
+/home/cauan_kms/Desktop/LPI_TESTSIM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cauan_kms/Desktop/LPI_TESTSIM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cauan_kms/Desktop/LPI_TESTSIM/cmake-build-debug/CMakeFiles/LPI_TESTSIM.dir
