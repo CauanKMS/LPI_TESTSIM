@@ -1,5 +1,7 @@
 #include <stdio.h>  
-  
+
+//References: https://www.urionlinejudge.com.br/judge/pt/questions/view/1769/641
+
 int main()  
 {
     //int run;
