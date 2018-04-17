@@ -2,9 +2,14 @@
   
 int main()  
 {
+    //int run;
+
+
     char cpf[12];
     int intCpf[12];
-    int i, contadorSoma = 0, primeiroDigito, resultado1, resultado2, segundoDigito, valor;
+    int i, contadorSoma, primeiroDigito, segundoDigito, resultado1, resultado2, valor;
+
+    contadorSoma = 0;
 
     //Letra a
     printf("Digite o cpf:\n");
@@ -19,7 +24,7 @@ int main()
         //printf(intCpf[i]);
     }
 
-    //Primeiro digito, pega um por um do array e multiplica
+    //Primeiro digito, pega um por um do array e multiplica - Do 10 ao 2
 
     for(i = 0; i < 9; i++)
     {
@@ -37,7 +42,7 @@ int main()
         primeiroDigito = 11 - resultado1;
     }
 
-    //Segundo digito
+    //Segundo digito - Faz a mesma coisa so q multiplicando do 11 ao 3
 
     contadorSoma = 0;
 
