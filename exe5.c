@@ -3,7 +3,7 @@
 int main()  
 {
     //int run;
-
+    //Need a loop
 
     char cpf[12];
     int intCpf[12];
